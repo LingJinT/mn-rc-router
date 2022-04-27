@@ -19,6 +19,7 @@ module.exports = {
     filename: 'mn-rc-router.js',
     path: path.resolve(__dirname, 'dist'),
     library: 'mn-rc-router',
-    libraryTarget: 'umd'
+    libraryTarget: 'umd',
+    clean: true
   }
 };
