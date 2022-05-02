@@ -1,4 +1,3 @@
-export type addFc = (a: number, b: number) => number
-export const add: addFc =  function(a, b) {
+export const add =  function(a:number, b:number) {
     return a + b
 }

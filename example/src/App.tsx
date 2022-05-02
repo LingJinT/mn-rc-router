@@ -1,4 +1,5 @@
 import { useState } from 'react'
+import { add } from 'mn-rc-router';
 import logo from './logo.svg'
 import './App.css'
 
@@ -12,7 +13,7 @@ function App() {
         <p>Hello Vite + React!</p>
         <p>
           <button type="button" onClick={() => setCount((count) => count + 1)}>
-            count is: {count}
+            count is: {add(1,2)}
           </button>
         </p>
         <p>
