@@ -1,5 +1,0 @@
-# Router
-
-provider context
-
-basename

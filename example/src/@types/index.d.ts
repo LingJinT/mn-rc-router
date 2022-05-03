@@ -1,0 +1,1 @@
+declare module 'mn-rc-router'
