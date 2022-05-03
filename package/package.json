@@ -1,6 +1,6 @@
 {
   "name": "mn-rc-router",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "description": "轻量级react-router",
   "main": "dist/mn-rc-router.js",
   "directories": {
