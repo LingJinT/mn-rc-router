@@ -8,7 +8,7 @@
     "preview": "vite preview"
   },
   "dependencies": {
-    "mn-rc-router": "^1.0.4",
+    "mn-rc-router": "^1.0.6",
     "react": "^18.0.0",
     "react-dom": "^18.0.0"
   },

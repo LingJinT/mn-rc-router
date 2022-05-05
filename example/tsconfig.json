@@ -18,8 +18,6 @@
   },
   "include": [
     "./src",
-    // "./src/**/*.ts",
-    // "./src/**/*.d.ts"
   ],
   "references": [{ "path": "./tsconfig.node.json" }]
 }
