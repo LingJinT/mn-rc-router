@@ -1,6 +1,6 @@
 import React from "react";
 import ReactDom from "react-dom";
-import { Router, Route, BeforeEnter } from "./components/Router";
+import { Router, Route, BeforeEnter } from "./index";
 import Root from "./root";
 import About from "./about";
 import Home from "./home";

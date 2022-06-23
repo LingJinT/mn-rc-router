@@ -1,6 +1,5 @@
 import React from "react";
-import { Link } from "./components/Link";
-import Outlet from "./components/Outlet";
+import { Link, Outlet } from "./index";
 
 export default ({ children }: { children?: React.ReactNode }) => (
   <>
